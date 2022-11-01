@@ -424,7 +424,7 @@ jobs:
   
 </details>
   
-<details id=6 open>
+<details id=6>
 
 <summary><h2> Step 6: Trigger the joke action</h2></summary>
 
@@ -440,7 +440,7 @@ Everything is all set up and now we are ready to start laughing. You will find y
  
 </details>
 
-<details id=X>
+<details id=X open>
 <summary><h2>Finish</h2></summary>
 
 ### Congratulations, you've completed this course! 
